@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
     master:
-      image: tawanaarthur/module6
+      image: tawanaarthur/module6:master
       deploy:
         replicas: 2
       pull_policy: always
