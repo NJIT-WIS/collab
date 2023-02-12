@@ -12,7 +12,7 @@ attempt.  *YOU WILL GET PROBLEMS IF YOU DON'T DO THIS!*
 To complete this assignment each partner will click the button to accept the assignment and follow the Installation
 instructions below. The first feature(s) that you and your partner(s) will make are to add your names to the readme file
 [here](readme.md). You will have 2 pull requests on your own repo and your partner(s) will have 2 pull requests on
-theirs. The end result is that each partner should have the experience of the team leader and a team member.
+theirs. The end result is that each partner should have the experience of the team leader and a team member
 
 ## Steps
 
@@ -22,8 +22,8 @@ theirs. The end result is that each partner should have the experience of the te
 
 ### 3. Both Partners ACCEPT THE Assignment GITHUB to create their own GitHub repo, so each person has the chance to do all the steps and practice makes perfect...
 
-1. Partner 1: [kwilliam](https://github.com/kaw393939) <-change to you or your partner
-2. Partner 2: [kwilliam](https://github.com/kaw393939) <-change to you or your partner
+1. Partner 1: [Pil Jang](https://github.com/kaw393939) <-change to you or your partner
+2. Partner 2: [Michael Ellis](https://github.com/kaw393939) <-change to you or your partner
 3. Partner 3: Optional
 
 Complete this on each partner's repos for this assignment by following the development workflow process bellow. Since
