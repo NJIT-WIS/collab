@@ -8,7 +8,7 @@ on:
       - 'v*'
 
 env:
-  DOCKER_REPO_NAME: roopali4210/mywebclass_roopali
+  DOCKER_REPO_NAME: devika1612/mywebclass_devika
 
 jobs:
   build:
