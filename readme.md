@@ -1,4 +1,13 @@
-# Assigment Instructions
+# MyWebClass.Org Project
+
+## Install Instructions
+1. [Mac](#)
+2. [Windows 10](#)
+3. [Windows 11](#)
+4. [Ubuntu Desktop](#)
+5. [Ubuntu Server](#)
+
+## Assigment Instructions
 
 This assignment will begin to teach you how to work in a development team and show you how all of what we have learned
 comes together to enable a productive development process within a team.  You will need to create a group of 2-3 people and each member of the group is required to play the role of "team member" and "team leader".  All members of the group are required to create pull requests to merge a branch on GitHub; however, only the "team leader" should merge the branch to master after reviewing and approving it.
@@ -113,4 +122,3 @@ respective GitHub repos into Canvas.
    rebuilding the dockerfile manually because of the volume share setup by the docker compose file.
 4. "npm run clean" Deletes anything in the public_html folder.
 5. "npx playwright test" <- Run the playwright tests
-
