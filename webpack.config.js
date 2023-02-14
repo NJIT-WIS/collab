@@ -12,11 +12,21 @@ module.exports = {
   devServer: {
     static: './public_html',
     hot: false,
-    port: 5000
+    port: 3000
   },
   plugins: [
     new HtmlWebpackPlugin({
-      template: 'src/index.html'
+      template: 'src/index.html',
+      filename: 'index.html'
+    }),
+    new HtmlWebpackPlugin({
+      template: 'src/article.html',
+      filename: 'article.html'
+
+    }),
+    new HtmlWebpackPlugin({
+      template: 'src/articles.html',
+      filename: 'articles.html'
     }),
     new FaviconsWebpackPlugin('src/images/favicon.png') // svg works too!
 
