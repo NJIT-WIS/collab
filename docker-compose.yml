@@ -3,7 +3,7 @@ version: "3.8"
 services:
     master_branch:
       image: mansi27/27_webclass
-      container_name: master_branch
+      container_name: master
       pull_policy: always
       restart: always
       ports:
