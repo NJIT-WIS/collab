@@ -1,18 +1,18 @@
 version: "3.8"
 
 services:
-    master_branch:
+    master:
       image:  srikavyam/webclass:master
-      container_name: master_branch
+      container_name: master
       pull_policy: always
       restart: always
       ports:
       - "80:80"
       labels:
       - 'com.centurylinklabs.watchtower.enable=true'
-    development_branch:
-      image:  srikavyam/webclass:development
-      container_name: development_branch
+    development:
+      build: . 
+      container_name: development
       pull_policy: always
       restart: always
       ports:
