@@ -12,7 +12,7 @@ services:
       - 'com.centurylinklabs.watchtower.enable=true'
     development:
       build: . 
-      container_name: development
+      container_name: development1
       pull_policy: always
       restart: always
       ports:
@@ -34,7 +34,7 @@ services:
         - ./requirements.txt:/home/myuser/requirements.txt
     watchtower:
       image: containrrr/watchtower
-      container_name: watchtower
+      container_name: watchtower1
       restart: always
       command: '--interval 30 --label-enable --cleanup'
       volumes:
