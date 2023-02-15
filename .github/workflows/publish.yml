@@ -9,7 +9,7 @@ on:
       - 'v*'
 
 env:
-  DOCKER_REPO_NAME: neetium/mywebclass:master
+  DOCKER_REPO_NAME: neetium/mywebclass
 
 jobs:
   build:
