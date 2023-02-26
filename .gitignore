@@ -1,7 +1,7 @@
 tests/__pycache__
 grade/__pycache__
 .pytest_cache
-node_modules*
+node_modules
 .idea
 venv
 /test-results/
@@ -9,3 +9,5 @@ venv
 /playwright/.cache/
 /app/__pycache__/
 .github/workflows/*.bak
+.vscode
+public_html
